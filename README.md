@@ -10,3 +10,7 @@ Soluzioni prima parte [![Binder](https://mybinder.org/badge_logo.svg)](https://m
 # AnalisiStocasticaLab2
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPolettiUnige/AnalisiStocasticaLab1/HEAD?urlpath=%2Fdoc%2Ftree%2FLab2_ModelloSIR.ipynb)
+
+# AnalisiStocasticaLab3
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPolettiUnige/AnalisiStocasticaLab1/HEAD?urlpath=%2Fdoc%2Ftree%2FLab3_PrezzaggioDiOpzioni.ipynb)
